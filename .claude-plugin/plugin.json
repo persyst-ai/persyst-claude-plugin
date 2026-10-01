@@ -1,0 +1,29 @@
+{
+  "name": "persyst",
+  "displayName": "Persyst",
+  "version": "0.2.0",
+  "description": "Give every team and client exactly the access they need: company-wide permissions, one connector across all your clients' tools, smart search across documents and tasks, and access to your code.",
+  "author": {
+    "name": "TILTED",
+    "email": "contact@persyst.ai",
+    "url": "https://www.persyst.ai"
+  },
+  "homepage": "https://www.persyst.ai",
+  "privacyPolicyUrl": "https://www.persyst.ai/en/privacy-policy",
+  "supportUrl": "https://www.persyst.ai/en/contact",
+  "documentationUrl": "https://github.com/persyst-ai/persyst-claude-plugin#readme",
+  "repository": "https://github.com/persyst-ai/persyst-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "persyst",
+    "mcp",
+    "connectors",
+    "github",
+    "gitlab",
+    "asana",
+    "notion",
+    "google-drive",
+    "databases",
+    "access-control"
+  ]
+}

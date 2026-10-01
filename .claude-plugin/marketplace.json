@@ -1,0 +1,16 @@
+{
+  "name": "persyst",
+  "owner": {
+    "name": "TILTED",
+    "email": "contact@persyst.ai",
+    "url": "https://www.persyst.ai"
+  },
+  "description": "Persyst plugin for Claude Code, Claude Desktop and Cowork.",
+  "plugins": [
+    {
+      "name": "persyst",
+      "source": "./",
+      "description": "Give every team and client exactly the access they need: company-wide permissions, one connector across all your clients' tools, smart search across documents and tasks, and access to your code."
+    }
+  ]
+}
